@@ -53,4 +53,4 @@ A virtual assistant (text or voice-driven) can guide users through steps or prov
 FAQs and troubleshooting guides can be accessed through an interactive panel.
 Conclusion:
 The key to creating an effective AR/VR UI is to balance the need for functionality with user comfort. Ensure that interactions feel natural, intuitive, and adaptable to the unique immersive environment, while offering users flexibility to adjust their experience for maximum comfort and efficiency.
-**OUTPUT**:
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/315c2c50-37a4-4b71-bbac-4c7f3d0cd3a8)
